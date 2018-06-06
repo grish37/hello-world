@@ -6,4 +6,4 @@ Never odd or even.
 
 Rats! At Feli's I left a star!
 
-Re: github. Uh.. tiger!!!
+Re: github. Uh... tiger!!!
